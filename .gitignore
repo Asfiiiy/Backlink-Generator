@@ -1,0 +1,16 @@
+*.log
+.env
+node_modules/
+vendor/
+cache/
+tmp/
+*.log
+.env
+node_modules/
+vendor/
+cache/
+tmp/
+config/google_service_account.json
+config/*.json
+uploads/
+*.key

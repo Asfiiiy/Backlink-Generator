@@ -1,0 +1,36 @@
+{
+  "name": "backlink-bot-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "bottleneck": "^2.19.5",
+    "cheerio": "^1.0.0",
+    "chromedriver": "^134.0.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^146.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.13.0",
+    "oauth-1.0a": "^2.2.6",
+    "oauth-signature": "^1.5.0",
+    "puppeteer": "^24.4.0",
+    "querystring": "^0.2.1",
+    "selenium-webdriver": "^4.29.0",
+    "snoowrap": "^1.15.2"
+  }
+}
